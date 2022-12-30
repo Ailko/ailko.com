@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'NovaMono';
+  src: url('./assets/fonts/Nova_Mono/NovaMono-Regular.ttf');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
